@@ -1,0 +1,124 @@
+{
+    "home": {
+        "name": "Hadi Purnama Jati",
+        "tagline": "Empowering Humans in the Age of Machines",
+        "profile_img": "https://jagoprompt.com/wp-content/uploads/2026/01/compressed_navyblue_2.webp",
+        "whatsapp_text": "CONTACT TIA FOR SPEAKER INVITATION",
+        "whatsapp_link": "https://s.id/invitecorp",
+        "social": {
+            "instagram": "https://www.instagram.com/putuhpjati",
+            "linkedin": "https://www.linkedin.com/in/phpjati/",
+            "scholar": "https://scholar.google.com/citations?user=jaxO4bUAAAAJ&hl=en&authuser=1",
+            "email": "putuhadi2808@gmail.com"
+        },
+        "logos": [
+            {
+                "name": "Kemenkeu",
+                "img": "https://jagoprompt.com/wp-content/uploads/2026/02/Logo_kementerian_keuangan_republik_indonesia.png"
+            },
+            {
+                "name": "PPATK",
+                "img": "https://jagoprompt.com/wp-content/uploads/2025/09/LOGO_PPATK-e1757646676219.png"
+            },
+            {
+                "name": "IBM",
+                "img": "https://jagoprompt.com/wp-content/uploads/2026/02/IBM_logo.svg-1.png"
+            },
+            {
+                "name": "Telkomsel",
+                "img": "https://jagoprompt.com/wp-content/uploads/2026/02/telkomsel-baru-2021-1.png"
+            },
+            {
+                "name": "Binus",
+                "img": "https://jagoprompt.com/wp-content/uploads/2026/02/Logo-Binus-University-Universitas-Bina-Nusantara-Original-PNG.png"
+            }
+        ],
+        "products": [
+            {
+                "name": "CustomGPTs Super Bundle Akademik",
+                "img": "https://cdn.lynkid.my.id/products/21-06-2025/1750466726466_4939542.webp",
+                "price": "Rp 49.000",
+                "link": "https://lynk.id/promptpintar/j5021ke67gjk"
+            },
+            {
+                "name": "JAGOBITE Bundle : PDF Camilan Nulis Dengan AI Anti Plagiat + Skripsi Xpress",
+                "img": "https://cdn.lynkid.my.id/products/17-05-2025/1747437342949_7263331.webp",
+                "price": "Rp 49.000",
+                "link": "https://lynk.id/promptpintar/867pdwq7x15r"
+            },
+            {
+                "name": "ThreadMark – Bantu Temukan Post Viral Lebih Cepat! + bonus extension SimpanGPTs",
+                "img": "https://cdn.lynkid.my.id/products/03-06-2025/1748933975629_1476869.webp",
+                "price": "Rp 47.000",
+                "link": "https://lynk.id/promptpintar/1v587745wqkv"
+            },
+            {
+                "name": "[GPTs] INAuditGPT by jagoprompt",
+                "img": "https://cdn.lynkid.my.id/products/05-06-2025/1749128027870_9867014.webp",
+                "price": "Rp 49.000",
+                "link": "https://lynk.id/promptpintar/w9rgjzqnwngy"
+            }
+        ]
+    },
+    "about": {
+        "intro": "PhD researcher and data protection practitioner focused on responsible AI and data governance. I speak, teach, and write about how humans and machines can work together well.",
+        "education": [
+            {
+                "title": "PhD Student, FAIR Data Principle",
+                "subtitle": "Leiden University"
+            },
+            {
+                "title": "Master ICT in Business and the Public Sector",
+                "subtitle": "Leiden University"
+            },
+            {
+                "title": "Bachelor Computational Statistics",
+                "subtitle": "Sekolah Tinggi Ilmu Statistik"
+            }
+        ],
+        "speeches": [
+            {
+                "title": "Guest Lecturer @ Leiden University (2022-2023)",
+                "subtitle": "Topic: Data Protection Regulatory Compliance: Case Study of VODAN-Africa"
+            },
+            {
+                "title": "Accelerate Your Data Protection Workshop",
+                "subtitle": "UU PDP: Opportunity atau Challenge? – IBM & Partners"
+            },
+            {
+                "title": "AI for Data Analysis Training",
+                "subtitle": "Ministry of Finance Training Center, 2026"
+            },
+            {
+                "title": "AI for Impactful Data Visualization",
+                "subtitle": "Financial Services Authority (OJK), 2025"
+            },
+            {
+                "title": "Productive Work with AI",
+                "subtitle": "PT JACCS MPM Finance, 2025"
+            },
+            {
+                "title": "Trust and Trap",
+                "subtitle": "Relationship Scam – ACFE Chapter Indonesia"
+            }
+        ],
+        "books": [
+            {
+                "title": "Membasmi Virus Komputer Tak Perlu Pinter",
+                "subtitle": "Buku Panduan Keamanan Komputer",
+                "link": "https://books.google.co.id/books/about/Membasmi_Virus_Komputer_Tak_Perlu_Pinter.html?id=1g_VPOk9QzcC&redir_esc=y"
+            },
+            {
+                "title": "Buku Sakti Nge-blog",
+                "subtitle": "Panduan Menjadi Blogger Profesional",
+                "link": "https://books.google.co.id/books?id=myTU3gEIylUC&hl=id&lr="
+            },
+            {
+                "title": "ChatGPT Skripsi Magic",
+                "subtitle": "Optimasi AI untuk Penulisan Akademik",
+                "link": "https://shopee.co.id/CHATGPT-SKRIPSI-MAGIC-Panduan-Menaklukkan-Tugas-Akhir-Dengan-ChatGPT-dan-AI-Soft-(Edisi-Baru)-i.1081739572.22856572667"
+            }
+        ]
+    },
+    "blog": []
+}
